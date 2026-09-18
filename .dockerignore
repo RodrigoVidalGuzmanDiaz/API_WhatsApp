@@ -1,0 +1,6 @@
+node_modules
+npm-debug.log
+.env
+.wwebjs_auth
+.git
+.gitignore
